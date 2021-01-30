@@ -1,5 +1,5 @@
 
-![ELECTIONS.SBWINNERS](Images/elections.jpg)</br>
+[ELECTIONS.SBWINNERS](Images/elections.jpg)
 
 #DATA SETS:
 
