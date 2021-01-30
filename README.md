@@ -14,7 +14,7 @@ Attached is the final proposal which includes our timeline and a breakdown of ho
 On behalf of our team, I would like to thank you for entrusting us with this project and the quick turnaround time needed.
 Feel free to let us know if there are any questions, concerns, or any additional information needed.
 
-All the best,#
+All the best, </br>
 Tiffany McGowan; JHU Bootcamp 
 
 ## Quick Glance of results:
