@@ -1,4 +1,5 @@
 # Subject: Presidential Election vs Superbowl Results
+## cc: Mallory Kuba, Corey Perkins
 
 Good Morning Sean,
 
@@ -12,5 +13,9 @@ Attached is the final proposal which includes our timeline and a breakdown of ho
 
 On behalf of our team, I would like to thank you for entrusting us with this project and the quick turnaround time needed.
 Feel free to let us know if there are any questions, concerns, or any additional information needed.
+
 All the best,
 Tiffany McGowan; JHU Bootcamp 
+
+## Quick Glance of results:
+![Images/superbowl.jpg](Images/superbowl.jpg)
