@@ -13,7 +13,7 @@
 • Challenge: Load CSVs into Postgres using PG Admin’s import tool.</br>
 • CSVs will be imported to pandas using from_csv with pandas.</br>
 
-![1st Pull](Images/SB1.jpg)
+![Images/SB1.jpg](Images/SB1.jpg)
 
 ## TRANSFORM: 
 • Once imported, verify data integrity and create aggregates as necessary. </br>
