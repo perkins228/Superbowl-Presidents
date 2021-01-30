@@ -1,5 +1,5 @@
 # Subject: Presidential Election vs Superbowl Results
-cc: Mallory Kuba, Corey Perkins
+<b>cc: Mallory Kuba, Corey Perkins</b>
 
 Good Morning Sean,
 
