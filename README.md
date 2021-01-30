@@ -15,7 +15,6 @@ On behalf of our team, I would like to thank you for entrusting us with this pro
 Feel free to let us know if there are any questions, concerns, or any additional information needed.
 
 All the best,
-
 Tiffany McGowan; JHU Bootcamp 
 
 ## Quick Glance of results:
