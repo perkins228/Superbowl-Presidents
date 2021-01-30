@@ -13,19 +13,19 @@
 • Challenge: Load CSVs into Postgres using PG Admin’s import tool.</br>
 • CSVs will be imported to pandas using from_csv with pandas.</br>
 
-![Images/SB1.jpg](Images/SB1.jpg)
+![Images/SB1.jpg](Images/SB1.JPG)
 
 ## TRANSFORM: 
 • Once imported, verify data integrity and create aggregates as necessary. </br>
 • Drop irrelevant columns in each dataset.</br>
 • Rename appropriate columns for readability. </br>
 
-![Clean up](Images/CU.jpg)
+![Clean up](Images/CU.JPG)
 
 • Extract the year from (full) date columns. Create new column for “year”. Complete for both data sets. </br>
 • Once imported, join the tables based on year.  
 
-![Joined](Images/Join.jpg)
+![Joined](Images/Join.JPG)
 
 ## LOAD: 
 • While extracting/loading, read through each dataset and create a Postgres table to load into. </br>
