@@ -18,4 +18,6 @@ All the best,
 Tiffany McGowan; JHU Bootcamp 
 
 ## Quick Glance of results:
+
+  ### After extracting both datasets. We narrow down the data to the information needed:
 ![Images/superbowl.jpg](Images/superbowl.jpg)
