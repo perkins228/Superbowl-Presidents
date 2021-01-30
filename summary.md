@@ -1,7 +1,7 @@
 
-![ELECTIONS.SBWINNERS](Images/elections.jpg)
+![ELECTIONS.SBWINNERS](Images/elections.jpg)</br>
 
-##DATA SETS:
+###DATA SETS:
 
 •	Super Bowl finals from years 1967 to 2020 from Kaggle: https://www.kaggle.com/timoboz/superbowl-history-1967-2020 
 •	US presidential election results from years 1797 - 2009: https://gist.github.com/namuol/2657233 from Lou Acresti’s Github.
