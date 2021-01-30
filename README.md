@@ -19,5 +19,8 @@ Tiffany McGowan; JHU Bootcamp
 
 ## Quick Glance of results:
 
-  ### After extracting both datasets. We narrow down the data to the information needed:
-![Images/superbowl.jpg](Images/superbowl.jpg)
+### After extracting both datasets. We narrow down the data to the information needed:
+![Images/superbowl.jpg](Images/superbowl.jpg)  ![Images/presidents.jpg](Images/presidents.jpg)
+
+### Once imported, we join the tables based on year:
+![Images/combined.jpg](Images/combined.jpg)
